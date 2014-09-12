@@ -1,0 +1,11 @@
+~~~json
+[
+  {
+    "id": "A0B01", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "货币供应量", 
+    "pId": "A0B"
+  }
+]
+~~~

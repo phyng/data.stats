@@ -1,0 +1,34 @@
+[
+  {
+    "ename": "布产量_当月值", 
+    "id": "A02080801", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "布产量_当月值", 
+    "pId": "A020808"
+  }, 
+  {
+    "ename": "布产量_累计值", 
+    "id": "A02080802", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "布产量_累计值", 
+    "pId": "A020808"
+  }, 
+  {
+    "ename": "布产量_同比增长", 
+    "id": "A02080803", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "布产量_同比增长", 
+    "pId": "A020808"
+  }, 
+  {
+    "ename": "布产量_累计增长", 
+    "id": "A02080804", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "布产量_累计增长", 
+    "pId": "A020808"
+  }
+]

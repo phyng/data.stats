@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "铝材产量_当月值", 
+    "id": "A02080Y01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铝材产量_当月值", 
+    "pId": "A02080Y"
+  }, 
+  {
+    "ename": "铝材产量_累计值", 
+    "id": "A02080Y02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铝材产量_累计值", 
+    "pId": "A02080Y"
+  }, 
+  {
+    "ename": "铝材产量_同比增长", 
+    "id": "A02080Y03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铝材产量_同比增长", 
+    "pId": "A02080Y"
+  }, 
+  {
+    "ename": "铝材产量_累计增长", 
+    "id": "A02080Y04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铝材产量_累计增长", 
+    "pId": "A02080Y"
+  }
+]
+~~~

@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A05050E01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑及装潢材料类商品零售类值_当期值", 
+    "pId": "A05050E"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050E02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑及装潢材料类商品零售类值_累计值", 
+    "pId": "A05050E"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050E03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑及装潢材料类商品零售类值_同比增长", 
+    "pId": "A05050E"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050E04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑及装潢材料类商品零售类值_累计增长", 
+    "pId": "A05050E"
+  }
+]
+~~~

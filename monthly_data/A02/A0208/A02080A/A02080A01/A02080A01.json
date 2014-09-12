@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A02080A01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "机制纸及纸板产量_当月值", 
+    "pId": "A02080A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080A02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "机制纸及纸板产量_累计值", 
+    "pId": "A02080A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080A03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "机制纸及纸板产量_同比增长", 
+    "pId": "A02080A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080A04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "机制纸及纸板产量_累计增长", 
+    "pId": "A02080A"
+  }
+]

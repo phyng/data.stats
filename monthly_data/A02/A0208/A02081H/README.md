@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "交流电动机产量_当月值", 
+    "id": "A02081H01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交流电动机产量_当月值", 
+    "pId": "A02081H"
+  }, 
+  {
+    "ename": "交流电动机产量_累计值", 
+    "id": "A02081H02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交流电动机产量_累计值", 
+    "pId": "A02081H"
+  }, 
+  {
+    "ename": "交流电动机产量_同比增长", 
+    "id": "A02081H03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交流电动机产量_同比增长", 
+    "pId": "A02081H"
+  }, 
+  {
+    "ename": "交流电动机产量_累计增长", 
+    "id": "A02081H04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交流电动机产量_累计增长", 
+    "pId": "A02081H"
+  }
+]
+~~~

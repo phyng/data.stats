@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02081P01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信手持机产量_当月值", 
+    "pId": "A02081P"
+  }, 
+  {
+    "id": "A02081P02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信手持机产量_累计值", 
+    "pId": "A02081P"
+  }, 
+  {
+    "id": "A02081P03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信手持机产量_同比增长", 
+    "pId": "A02081P"
+  }, 
+  {
+    "id": "A02081P04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信手持机产量_累计增长", 
+    "pId": "A02081P"
+  }
+]
+~~~

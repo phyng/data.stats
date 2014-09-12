@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A03060101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农林牧渔业固定资产投资额_累计值", 
+    "pId": "A030601"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03060102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农林牧渔业固定资产投资额_累计增长", 
+    "pId": "A030601"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03060103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "林业固定资产投资额_累计值", 
+    "pId": "A030601"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03060104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "林业固定资产投资额_累计增长", 
+    "pId": "A030601"
+  }
+]

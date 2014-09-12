@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02080W01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "氧化铝产量_当月值", 
+    "pId": "A02080W"
+  }, 
+  {
+    "id": "A02080W02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "氧化铝产量_累计值", 
+    "pId": "A02080W"
+  }, 
+  {
+    "id": "A02080W03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "氧化铝产量_同比增长", 
+    "pId": "A02080W"
+  }, 
+  {
+    "id": "A02080W04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "氧化铝产量_累计增长", 
+    "pId": "A02080W"
+  }
+]

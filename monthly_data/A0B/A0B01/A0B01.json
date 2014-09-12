@@ -1,0 +1,50 @@
+[
+  {
+    "ename": "货币和准货币(M2)供应量_期末值", 
+    "id": "A0B0101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货币和准货币(M2)供应量_期末值", 
+    "pId": "A0B01"
+  }, 
+  {
+    "ename": "货币和准货币(M2)供应量_同比增长", 
+    "id": "A0B0102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货币和准货币(M2)供应量_同比增长", 
+    "pId": "A0B01"
+  }, 
+  {
+    "ename": "货币(M1)供应量_期末值", 
+    "id": "A0B0103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货币(M1)供应量_期末值", 
+    "pId": "A0B01"
+  }, 
+  {
+    "ename": "货币(M1)供应量_同比增长", 
+    "id": "A0B0104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货币(M1)供应量_同比增长", 
+    "pId": "A0B01"
+  }, 
+  {
+    "ename": "流通中现金(M0)供应量_期末值", 
+    "id": "A0B0105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "流通中现金(M0)供应量_期末值", 
+    "pId": "A0B01"
+  }, 
+  {
+    "ename": "流通中现金(M0)供应量_同比增长", 
+    "id": "A0B0106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "流通中现金(M0)供应量_同比增长", 
+    "pId": "A0B01"
+  }
+]

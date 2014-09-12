@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081Z01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "复印和胶版印制设备产量_当月值", 
+    "pId": "A02081Z"
+  }, 
+  {
+    "id": "A02081Z02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "复印和胶版印制设备产量_累计值", 
+    "pId": "A02081Z"
+  }, 
+  {
+    "id": "A02081Z03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "复印和胶版印制设备产量_同比增长", 
+    "pId": "A02081Z"
+  }, 
+  {
+    "id": "A02081Z04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "复印和胶版印制设备产量_累计增长", 
+    "pId": "A02081Z"
+  }
+]

@@ -1,0 +1,68 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A05050201", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装鞋帽、针、纺织品类商品零售类值_当期值", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050202", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装鞋帽、针、纺织品类商品零售类值_累计值", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050203", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装鞋帽、针、纺织品类商品零售类值_同比增长", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050204", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装鞋帽、针、纺织品类商品零售类值_累计增长", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050205", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装类商品零售类值_当期值", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050206", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装类商品零售类值_累计值", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050207", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装类商品零售类值_同比增长", 
+    "pId": "A050502"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050208", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装类商品零售类值_累计增长", 
+    "pId": "A050502"
+  }
+]
+~~~

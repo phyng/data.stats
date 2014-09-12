@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081G01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "发电设备产量_当月值", 
+    "pId": "A02081G"
+  }, 
+  {
+    "id": "A02081G02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "发电设备产量_累计值", 
+    "pId": "A02081G"
+  }, 
+  {
+    "id": "A02081G03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "发电设备产量_同比增长", 
+    "pId": "A02081G"
+  }, 
+  {
+    "id": "A02081G04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "发电设备产量_累计增长", 
+    "pId": "A02081G"
+  }
+]

@@ -1,0 +1,1012 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A020M0601", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0602", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0603", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0604", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0605", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0606", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0607", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0608", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0609", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M060Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0610", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0611", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0612", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0613", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0614", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0615", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0616", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0617", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0618", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0619", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M061Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0620", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0621", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0622", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0623", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0624", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0625", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0626", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0627", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0628", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0629", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M062Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0630", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0631", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0632", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0633", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0634", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0635", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0636", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0637", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0638", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M0639", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业产成品_累计增长", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业产成品_累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业产成品_上年同期累计值", 
+    "pId": "A020M06"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020M063I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业产成品_累计增长", 
+    "pId": "A020M06"
+  }
+]
+~~~

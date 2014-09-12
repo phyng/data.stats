@@ -1,0 +1,114 @@
+[
+  {
+    "id": "A050301", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "餐饮收入_当期值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050302", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "餐饮收入_累计值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050303", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "餐饮收入_同比增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050304", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "餐饮收入_累计增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050305", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位餐饮收入_当期值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050306", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位餐饮收入_累计值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050307", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位餐饮收入_同比增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050308", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位餐饮收入_累计增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A050309", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品零售_当期值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品零售_累计值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品零售_同比增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品零售_累计增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位商品零售类值_当期值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位商品零售类值_累计值", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位商品零售类值_同比增长", 
+    "pId": "A0503"
+  }, 
+  {
+    "id": "A05030G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位商品零售类值_累计增长", 
+    "pId": "A0503"
+  }
+]

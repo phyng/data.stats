@@ -1,0 +1,146 @@
+[
+  {
+    "ename": null, 
+    "id": "A030401", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资本年资金来源小计_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030402", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资本年资金来源小计_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030403", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资国家预算资金_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030404", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资国家预算资金_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030405", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资国内贷款_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030406", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资国内贷款_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030407", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资债券_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030408", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资债券_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030409", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资利用外资_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资利用外资_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资自筹资金_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资自筹资金_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资其他资金_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资其他资金_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资各项应付款合计_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资各项应付款合计_累计增长", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资工程款_累计值", 
+    "pId": "A0304"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03040I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资工程款_累计增长", 
+    "pId": "A0304"
+  }
+]

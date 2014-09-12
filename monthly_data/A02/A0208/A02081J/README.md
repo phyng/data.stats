@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "家用电冰箱产量_当月值", 
+    "id": "A02081J01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用电冰箱产量_当月值", 
+    "pId": "A02081J"
+  }, 
+  {
+    "ename": "家用电冰箱产量_累计值", 
+    "id": "A02081J02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用电冰箱产量_累计值", 
+    "pId": "A02081J"
+  }, 
+  {
+    "ename": "家用电冰箱产量_同比增长", 
+    "id": "A02081J03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用电冰箱产量_同比增长", 
+    "pId": "A02081J"
+  }, 
+  {
+    "ename": "家用电冰箱产量_累计增长", 
+    "id": "A02081J04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用电冰箱产量_累计增长", 
+    "pId": "A02081J"
+  }
+]
+~~~

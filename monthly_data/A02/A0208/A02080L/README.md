@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A02080L01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "乙烯产量_当月值", 
+    "pId": "A02080L"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080L02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "乙烯产量_累计值", 
+    "pId": "A02080L"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080L03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "乙烯产量_同比增长", 
+    "pId": "A02080L"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080L04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "乙烯产量_累计增长", 
+    "pId": "A02080L"
+  }
+]
+~~~

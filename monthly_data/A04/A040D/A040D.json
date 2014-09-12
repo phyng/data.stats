@@ -1,0 +1,50 @@
+[
+  {
+    "ename": null, 
+    "id": "A040D01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼销售额_累计值", 
+    "pId": "A040D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040D02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼销售额_累计增长", 
+    "pId": "A040D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040D03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼现房销售额_累计值", 
+    "pId": "A040D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040D04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼现房销售额_累计增长", 
+    "pId": "A040D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040D05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼期房销售额_累计值", 
+    "pId": "A040D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040D06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "办公楼期房销售额_累计增长", 
+    "pId": "A040D"
+  }
+]

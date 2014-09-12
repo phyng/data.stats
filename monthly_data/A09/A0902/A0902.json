@@ -1,0 +1,72 @@
+[
+  {
+    "id": "A090201", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非制造业商务活动指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090202", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新订单指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090203", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新出口订单指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090204", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "在手订单指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090205", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "存货指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090206", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "中间投入价格指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090207", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "收费价格指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090208", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "从业人员指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A090209", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "供应商配送时间指数", 
+    "pId": "A0902"
+  }, 
+  {
+    "id": "A09020A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "业务活动预期指数", 
+    "pId": "A0902"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A040B01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅销售额_累计值", 
+    "pId": "A040B"
+  }, 
+  {
+    "id": "A040B02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅销售额_累计增长", 
+    "pId": "A040B"
+  }, 
+  {
+    "id": "A040B03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅现房销售额_累计值", 
+    "pId": "A040B"
+  }, 
+  {
+    "id": "A040B04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅现房销售额_累计增长", 
+    "pId": "A040B"
+  }, 
+  {
+    "id": "A040B05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅期房销售额_累计值", 
+    "pId": "A040B"
+  }, 
+  {
+    "id": "A040B06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅期房销售额_累计增长", 
+    "pId": "A040B"
+  }
+]

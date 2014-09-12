@@ -1,0 +1,226 @@
+[
+  {
+    "id": "A040101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产配套工程投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产配套工程投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产住宅投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产住宅投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "90平方米及以下住房投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "90平方米及以下住房投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A040109", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "144平方米以上住房投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "144平方米以上住房投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "别墅、高档公寓投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "别墅、高档公寓投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产办公楼投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产办公楼投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产商业营业用房投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产商业营业用房投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其它房地产投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其它房地产投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发建筑工程投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发建筑工程投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发安装工程投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发安装工程投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产设备工器具购置投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产设备工器具购置投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产其它费用投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产其它费用投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产土地购置费_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产土地购置费_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发计划总投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发计划总投资_累计增长", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发新增固定资产投资_累计值", 
+    "pId": "A0401"
+  }, 
+  {
+    "id": "A04010W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发新增固定资产投资_累计增长", 
+    "pId": "A0401"
+  }
+]

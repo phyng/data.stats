@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02080V01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "十种有色金属产量_当月值", 
+    "pId": "A02080V"
+  }, 
+  {
+    "id": "A02080V02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "十种有色金属产量_累计值", 
+    "pId": "A02080V"
+  }, 
+  {
+    "id": "A02080V03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "十种有色金属产量_同比增长", 
+    "pId": "A02080V"
+  }, 
+  {
+    "id": "A02080V04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "十种有色金属产量_累计增长", 
+    "pId": "A02080V"
+  }
+]

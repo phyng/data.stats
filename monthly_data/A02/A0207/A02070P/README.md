@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A02070P01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业出口交货值_当期值", 
+    "pId": "A02070P"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070P02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业出口交货值_累计值", 
+    "pId": "A02070P"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070P03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业出口交货值_同比增长", 
+    "pId": "A02070P"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070P04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业出口交货值_累计增长", 
+    "pId": "A02070P"
+  }
+]
+~~~

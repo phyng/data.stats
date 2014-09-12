@@ -1,0 +1,93 @@
+[
+  {
+    "id": "A090101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "制造业采购经理指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "生产指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新订单指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新出口订单指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "在手订单指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "产成品库存指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "采购量指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进口指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A090109", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "主要原材料购进价格指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A09010A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "原材料库存指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A09010B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "从业人员指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A09010C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "供应商配送时间指数", 
+    "pId": "A0901"
+  }, 
+  {
+    "id": "A09010D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "生产经营活动预期指数", 
+    "pId": "A0901"
+  }
+]

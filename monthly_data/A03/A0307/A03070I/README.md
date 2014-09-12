@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A03070I01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化、体育和娱乐业固定资产投资额_累计值", 
+    "pId": "A03070I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03070I02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化、体育和娱乐业固定资产投资额_累计增长", 
+    "pId": "A03070I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03070I03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化艺术业固定资产投资额_累计值", 
+    "pId": "A03070I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A03070I04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化艺术业固定资产投资额_累计增长", 
+    "pId": "A03070I"
+  }
+]
+~~~

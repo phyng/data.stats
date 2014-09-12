@@ -1,0 +1,34 @@
+[
+  {
+    "ename": "水泥产量_当月值", 
+    "id": "A02080Q01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水泥产量_当月值", 
+    "pId": "A02080Q"
+  }, 
+  {
+    "ename": "水泥产量_累计值", 
+    "id": "A02080Q02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水泥产量_累计值", 
+    "pId": "A02080Q"
+  }, 
+  {
+    "ename": "水泥产量_同比增长", 
+    "id": "A02080Q03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水泥产量_同比增长", 
+    "pId": "A02080Q"
+  }, 
+  {
+    "ename": "水泥产量_累计增长", 
+    "id": "A02080Q04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水泥产量_累计增长", 
+    "pId": "A02080Q"
+  }
+]

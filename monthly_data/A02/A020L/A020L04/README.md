@@ -1,0 +1,844 @@
+~~~json
+[
+  {
+    "id": "A020L0401", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0402", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0403", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0404", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0405", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0406", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0407", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0408", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0409", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L040Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0410", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0411", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0412", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0413", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0414", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0415", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0416", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0417", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0418", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0419", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L041Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0420", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0421", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0422", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0423", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0424", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0425", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0426", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0427", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0428", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0429", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L042Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0430", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0431", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0432", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0433", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0434", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0435", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0436", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0437", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0438", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L0439", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L043A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业应收帐款_累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L043B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业应收帐款_上年同期累计值", 
+    "pId": "A020L04"
+  }, 
+  {
+    "id": "A020L043C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业应收帐款_累计增长", 
+    "pId": "A020L04"
+  }
+]
+~~~

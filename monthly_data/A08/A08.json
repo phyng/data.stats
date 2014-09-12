@@ -1,0 +1,590 @@
+[
+  {
+    "id": "A0801", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮电业务总量_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0802", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮电业务总量_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0803", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮电业务总量_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0804", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮电业务总量_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0805", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政业务总量_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0806", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政业务总量_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0807", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政业务总量_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0808", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政业务总量_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0809", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电信业务总量_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电信业务总量_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电信业务总量_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电信业务总量_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "函件数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "函件数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "函件数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "函件数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "包件数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "包件数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "包件数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "包件数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "快递量_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "快递量_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "快递量_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "快递量_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政汇票业务_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政汇票业务_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政汇票业务_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "邮政汇票业务_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销报纸份数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销报纸份数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销报纸份数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销报纸份数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销杂志份数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销杂志份数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A080Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销杂志份数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0810", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "订销杂志份数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0811", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定本地电话通话时长_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0812", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定本地电话通话时长_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0813", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定本地电话通话时长_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0814", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定本地电话通话时长_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0815", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定长途电话通话时长(含IP)_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0816", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定长途电话通话时长(含IP)_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0817", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定长途电话通话时长(含IP)_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0818", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定长途电话通话时长(含IP)_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0819", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话通话时长_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话通话时长_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话通话时长_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话通话时长_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定电话年末用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定电话年末用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定电话年末用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定电话年末用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市电话年末用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市电话年末用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市电话年末用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市电话年末用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市住宅电话年末用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市住宅电话年末用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市住宅电话年末用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "城市住宅电话年末用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村电话年末用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村电话年末用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村电话年末用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村电话年末用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村住宅电话年末用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村住宅电话年末用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村住宅电话年末用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农村住宅电话年末用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话用户_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话用户_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A081Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话用户_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0820", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动电话用户_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0821", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "3G移动电话用户数_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0822", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "3G移动电话用户数_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0823", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "3G移动电话用户数_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0824", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "3G移动电话用户数_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0825", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动短信业务量_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0826", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动短信业务量_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0827", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动短信业务量_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0828", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动短信业务量_累计增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A0829", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "互联网宽带接入用户_当期值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A082A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "互联网宽带接入用户_累计值", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A082B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "互联网宽带接入用户_同比增长", 
+    "pId": "A08"
+  }, 
+  {
+    "id": "A082C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "互联网宽带接入用户_累计增长", 
+    "pId": "A08"
+  }
+]

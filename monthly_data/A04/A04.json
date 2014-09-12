@@ -1,0 +1,122 @@
+[
+  {
+    "ename": "房地产开发投资情况", 
+    "id": "A0401", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "房地产开发投资情况", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "房地产开发投资资金来源", 
+    "id": "A0402", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "房地产开发投资资金来源", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "房地产土地开发与销售情况", 
+    "id": "A0403", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "房地产土地开发与销售情况", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "房地产施工、竣工面积", 
+    "id": "A0404", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "房地产施工、竣工面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商品住宅施工、竣工面积", 
+    "id": "A0405", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商品住宅施工、竣工面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "办公楼施工、竣工面积", 
+    "id": "A0406", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "办公楼施工、竣工面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商业营业用房施工、竣工面积", 
+    "id": "A0407", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商业营业用房施工、竣工面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商品房销售面积", 
+    "id": "A0408", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商品房销售面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商品房销售额", 
+    "id": "A0409", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商品房销售额", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商品住宅销售面积", 
+    "id": "A040A", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商品住宅销售面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商品住宅销售额", 
+    "id": "A040B", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商品住宅销售额", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "办公楼销售面积", 
+    "id": "A040C", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "办公楼销售面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "办公楼销售额", 
+    "id": "A040D", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "办公楼销售额", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商业营业用房销售面积", 
+    "id": "A040E", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商业营业用房销售面积", 
+    "pId": "A04"
+  }, 
+  {
+    "ename": "商业营业用房销售额", 
+    "id": "A040F", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "商业营业用房销售额", 
+    "pId": "A04"
+  }
+]

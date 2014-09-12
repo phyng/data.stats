@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A030B01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "施工项目计划总投资_累计值", 
+    "pId": "A030B"
+  }, 
+  {
+    "id": "A030B02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "施工项目计划总投资_累计增长", 
+    "pId": "A030B"
+  }, 
+  {
+    "id": "A030B03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新开工项目计划总投资_累计值", 
+    "pId": "A030B"
+  }, 
+  {
+    "id": "A030B04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新开工项目计划总投资_累计增长", 
+    "pId": "A030B"
+  }
+]

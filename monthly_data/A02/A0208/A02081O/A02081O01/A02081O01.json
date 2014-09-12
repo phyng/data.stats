@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081O01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信基站设备产量_当月值", 
+    "pId": "A02081O"
+  }, 
+  {
+    "id": "A02081O02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信基站设备产量_累计值", 
+    "pId": "A02081O"
+  }, 
+  {
+    "id": "A02081O03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信基站设备产量_同比增长", 
+    "pId": "A02081O"
+  }, 
+  {
+    "id": "A02081O04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "移动通信基站设备产量_累计增长", 
+    "pId": "A02081O"
+  }
+]

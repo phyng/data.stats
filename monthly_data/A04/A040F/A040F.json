@@ -1,0 +1,50 @@
+[
+  {
+    "ename": null, 
+    "id": "A040F01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房销售额_累计值", 
+    "pId": "A040F"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040F02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房销售额_累计增长", 
+    "pId": "A040F"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040F03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房现房销售额_累计值", 
+    "pId": "A040F"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040F04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房现房销售额_累计增长", 
+    "pId": "A040F"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040F05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房期房销售额_累计值", 
+    "pId": "A040F"
+  }, 
+  {
+    "ename": null, 
+    "id": "A040F06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房期房销售额_累计增长", 
+    "pId": "A040F"
+  }
+]

@@ -1,0 +1,548 @@
+[
+  {
+    "id": "A020401", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020402", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020403", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020404", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020405", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020406", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020407", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020408", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020409", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及木、竹、藤、棕、草制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸及纸制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦及核燃料加工业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料及化学制品制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼及压延加工业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼及压延加工业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械及器材制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02040Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020410", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020411", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力的生产和供应业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020412", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020413", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业增加值_同比增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020414", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020415", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020416", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020417", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020418", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020419", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及木、竹、藤、棕、草制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸及纸制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦及核燃料加工业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料及化学制品制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼及压延加工业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼及压延加工业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A02041Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械及器材制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020420", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020421", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020422", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020423", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020424", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力的生产和供应业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020425", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业增加值_累计增长", 
+    "pId": "A0204"
+  }, 
+  {
+    "id": "A020426", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业增加值_累计增长", 
+    "pId": "A0204"
+  }
+]

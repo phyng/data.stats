@@ -1,0 +1,18 @@
+~~~json
+[
+  {
+    "id": "A0901", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "制造业采购经理指数", 
+    "pId": "A09"
+  }, 
+  {
+    "id": "A0902", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "非制造业采购经理指数", 
+    "pId": "A09"
+  }
+]
+~~~

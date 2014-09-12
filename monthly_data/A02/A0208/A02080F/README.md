@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "焦炭产量_当月值", 
+    "id": "A02080F01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "焦炭产量_当月值", 
+    "pId": "A02080F"
+  }, 
+  {
+    "ename": "焦炭产量_累计值", 
+    "id": "A02080F02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "焦炭产量_累计值", 
+    "pId": "A02080F"
+  }, 
+  {
+    "ename": "焦炭产量_同比增长", 
+    "id": "A02080F03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "焦炭产量_同比增长", 
+    "pId": "A02080F"
+  }, 
+  {
+    "ename": "焦炭产量_累计增长", 
+    "id": "A02080F04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "焦炭产量_累计增长", 
+    "pId": "A02080F"
+  }
+]
+~~~

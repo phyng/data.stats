@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A030A01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "施工项目项目个数_累计值", 
+    "pId": "A030A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030A02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "施工项目项目个数_累计增减额", 
+    "pId": "A030A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030A03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新开工项目项目个数_累计值", 
+    "pId": "A030A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A030A04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新开工项目项目个数_累计增减额", 
+    "pId": "A030A"
+  }
+]

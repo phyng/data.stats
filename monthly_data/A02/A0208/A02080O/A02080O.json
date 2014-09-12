@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A02080O01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维产量_当月值", 
+    "pId": "A02080O"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080O02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维产量_累计值", 
+    "pId": "A02080O"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080O03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维产量_同比增长", 
+    "pId": "A02080O"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080O04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维产量_累计增长", 
+    "pId": "A02080O"
+  }
+]

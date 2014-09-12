@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A040701", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房施工面积_累计值", 
+    "pId": "A0407"
+  }, 
+  {
+    "id": "A040702", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房施工面积_累计增长", 
+    "pId": "A0407"
+  }, 
+  {
+    "id": "A040703", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房新开工施工面积_累计值", 
+    "pId": "A0407"
+  }, 
+  {
+    "id": "A040704", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房新开工施工面积_累计增长", 
+    "pId": "A0407"
+  }, 
+  {
+    "id": "A040705", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房竣工面积_累计值", 
+    "pId": "A0407"
+  }, 
+  {
+    "id": "A040706", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商业营业用房竣工面积_累计增长", 
+    "pId": "A0407"
+  }
+]

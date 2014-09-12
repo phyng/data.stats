@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A05050D01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油及制品类商品零售类值_当期值", 
+    "pId": "A05050D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050D02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油及制品类商品零售类值_累计值", 
+    "pId": "A05050D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050D03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油及制品类商品零售类值_同比增长", 
+    "pId": "A05050D"
+  }, 
+  {
+    "ename": null, 
+    "id": "A05050D04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油及制品类商品零售类值_累计增长", 
+    "pId": "A05050D"
+  }
+]
+~~~

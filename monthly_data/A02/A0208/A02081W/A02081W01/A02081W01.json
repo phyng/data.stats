@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081W01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "载波通信设备产量_当月值", 
+    "pId": "A02081W"
+  }, 
+  {
+    "id": "A02081W02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "载波通信设备产量_累计值", 
+    "pId": "A02081W"
+  }, 
+  {
+    "id": "A02081W03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "载波通信设备产量_同比增长", 
+    "pId": "A02081W"
+  }, 
+  {
+    "id": "A02081W04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "载波通信设备产量_累计增长", 
+    "pId": "A02081W"
+  }
+]

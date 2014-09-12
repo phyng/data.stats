@@ -1,0 +1,50 @@
+[
+  {
+    "ename": "工业增加值_同比增长", 
+    "id": "A020101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业增加值_同比增长", 
+    "pId": "A0201"
+  }, 
+  {
+    "ename": "工业增加值_累计增长", 
+    "id": "A020102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业增加值_累计增长", 
+    "pId": "A0201"
+  }, 
+  {
+    "ename": "轻工业增加值_同比增长", 
+    "id": "A020103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轻工业增加值_同比增长", 
+    "pId": "A0201"
+  }, 
+  {
+    "ename": "轻工业增加值_累计增长", 
+    "id": "A020104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轻工业增加值_累计增长", 
+    "pId": "A0201"
+  }, 
+  {
+    "ename": "重工业增加值_同比增长", 
+    "id": "A020105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "重工业增加值_同比增长", 
+    "pId": "A0201"
+  }, 
+  {
+    "ename": "重工业增加值_累计增长", 
+    "id": "A020106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "重工业增加值_累计增长", 
+    "pId": "A0201"
+  }
+]

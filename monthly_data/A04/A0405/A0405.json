@@ -1,0 +1,44 @@
+[
+  {
+    "id": "A040501", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅施工面积_累计值", 
+    "pId": "A0405"
+  }, 
+  {
+    "id": "A040502", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅施工面积_累计增长", 
+    "pId": "A0405"
+  }, 
+  {
+    "id": "A040503", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅新开工施工面积_累计值", 
+    "pId": "A0405"
+  }, 
+  {
+    "id": "A040504", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅新开工施工面积_累计增长", 
+    "pId": "A0405"
+  }, 
+  {
+    "id": "A040505", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅竣工面积_累计值", 
+    "pId": "A0405"
+  }, 
+  {
+    "id": "A040506", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅竣工面积_累计增长", 
+    "pId": "A0405"
+  }
+]

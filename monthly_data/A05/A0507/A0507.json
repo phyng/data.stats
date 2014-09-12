@@ -1,0 +1,198 @@
+[
+  {
+    "id": "A050701", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业营业额_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050702", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业营业额_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050703", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业营业额_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050704", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业营业额_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050705", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿业营业额_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050706", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿业营业额_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050707", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿业营业额_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050708", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿业营业额_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A050709", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上餐饮业营业额_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上餐饮业营业额_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上餐饮业营业额_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上餐饮业营业额_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业客房收入_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业客房收入_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业客房收入_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业客房收入_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业餐费收入_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业餐费收入_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业餐费收入_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业餐费收入_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业商品销售收入_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业商品销售收入_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业商品销售收入_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业商品销售收入_累计增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业其他收入_当期值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业其他收入_累计值", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业其他收入_同比增长", 
+    "pId": "A0507"
+  }, 
+  {
+    "id": "A05070S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限额以上住宿和餐饮业其他收入_累计增长", 
+    "pId": "A0507"
+  }
+]

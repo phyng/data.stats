@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02080G01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "硫酸产量_当月值", 
+    "pId": "A02080G"
+  }, 
+  {
+    "id": "A02080G02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "硫酸产量_累计值", 
+    "pId": "A02080G"
+  }, 
+  {
+    "id": "A02080G03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "硫酸产量_同比增长", 
+    "pId": "A02080G"
+  }, 
+  {
+    "id": "A02080G04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "硫酸产量_累计增长", 
+    "pId": "A02080G"
+  }
+]

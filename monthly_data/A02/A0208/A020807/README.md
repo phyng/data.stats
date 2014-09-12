@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "纱产量_当月值", 
+    "id": "A02080701", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纱产量_当月值", 
+    "pId": "A020807"
+  }, 
+  {
+    "ename": "纱产量_累计值", 
+    "id": "A02080702", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纱产量_累计值", 
+    "pId": "A020807"
+  }, 
+  {
+    "ename": "纱产量_同比增长", 
+    "id": "A02080703", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纱产量_同比增长", 
+    "pId": "A020807"
+  }, 
+  {
+    "ename": "纱产量_累计增长", 
+    "id": "A02080704", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纱产量_累计增长", 
+    "pId": "A020807"
+  }
+]
+~~~

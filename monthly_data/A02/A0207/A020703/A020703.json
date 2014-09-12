@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A02070301", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业出口交货值_当期值", 
+    "pId": "A020703"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070302", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业出口交货值_累计值", 
+    "pId": "A020703"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070303", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业出口交货值_同比增长", 
+    "pId": "A020703"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02070304", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业出口交货值_累计增长", 
+    "pId": "A020703"
+  }
+]

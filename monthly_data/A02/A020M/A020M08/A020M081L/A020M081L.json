@@ -1,0 +1,884 @@
+[
+  {
+    "id": "A020M0801", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0802", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0803", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0804", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0805", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0806", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0807", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0808", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0809", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M080Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0810", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0811", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0812", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0813", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0814", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0815", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0816", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0817", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0818", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0819", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M081Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0820", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0821", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0822", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0823", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0824", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0825", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0826", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0827", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0828", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0829", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M082Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0830", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0831", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0832", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0833", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0834", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0835", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0836", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0837", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0838", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M0839", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业负债合计_累计增长", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业负债合计_累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业负债合计_上年同期累计值", 
+    "pId": "A020M08"
+  }, 
+  {
+    "id": "A020M083I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业负债合计_累计增长", 
+    "pId": "A020M08"
+  }
+]

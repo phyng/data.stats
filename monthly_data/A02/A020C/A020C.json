@@ -1,0 +1,366 @@
+[
+  {
+    "id": "A020C01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业单位数_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业数_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业数_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业数_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业流动资产合计_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业流动资产合计_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C07", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业流动资产合计_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C08", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应收帐款_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C09", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应收帐款_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应收帐款_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业存货_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业存货_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业存货_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业产成品_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业产成品_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业产成品_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业资产总计_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业资产总计_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业资产总计_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业负债合计_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业负债合计_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业负债合计_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务收入_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务收入_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务收入_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务成本_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务成本_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务成本_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务税金及附加_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业主营业务税金及附加_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业销售费用_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业销售费用_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业销售费用_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C0Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业管理费用_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C10", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业管理费用_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C11", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业管理费用_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C12", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业财务费用_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C13", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业财务费用_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C14", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业财务费用_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C15", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利息支出_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C16", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利息支出_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C17", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利息支出_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C18", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利润总额_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C19", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利润总额_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业利润总额_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业亏损总额_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业亏损总额_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业亏损企业亏损总额_累计增长", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应交增值税_累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应交增值税_上年同期累计值", 
+    "pId": "A020C"
+  }, 
+  {
+    "id": "A020C1G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "股份合作工业企业应交增值税_累计增长", 
+    "pId": "A020C"
+  }
+]

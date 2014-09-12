@@ -1,0 +1,842 @@
+[
+  {
+    "id": "A020K0201", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0202", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0203", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0204", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0205", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0206", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0207", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0208", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0209", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K020Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0210", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0211", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0212", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0213", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0214", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0215", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0216", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0217", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0218", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0219", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K021Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0220", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0221", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0222", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0223", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0224", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0225", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0226", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0227", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0228", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0229", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K022Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0230", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0231", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0232", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0233", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0234", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0235", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0236", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0237", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0238", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K0239", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K023A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业亏损企业单位数_累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K023B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业亏损企业单位数_上年同期累计值", 
+    "pId": "A020K02"
+  }, 
+  {
+    "id": "A020K023C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业亏损企业单位数_累计增长", 
+    "pId": "A020K02"
+  }
+]

@@ -1,0 +1,162 @@
+[
+  {
+    "ename": null, 
+    "id": "A070201", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货物周转量_当期值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070202", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货物周转量_累计值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070203", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货物周转量_同比增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070204", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货物周转量_累计增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070205", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货物周转量_当期值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070206", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货物周转量_累计值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070207", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货物周转量_同比增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070208", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货物周转量_累计增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A070209", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货物周转量_当期值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货物周转量_累计值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货物周转量_同比增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货物周转量_累计增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货物周转量_当期值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货物周转量_累计值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货物周转量_同比增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货物周转量_累计增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货物周转量_当期值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货物周转量_累计值", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货物周转量_同比增长", 
+    "pId": "A0702"
+  }, 
+  {
+    "ename": null, 
+    "id": "A07020K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货物周转量_累计增长", 
+    "pId": "A0702"
+  }
+]

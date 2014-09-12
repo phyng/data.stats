@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02080E01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "柴油产量_当月值", 
+    "pId": "A02080E"
+  }, 
+  {
+    "id": "A02080E02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "柴油产量_累计值", 
+    "pId": "A02080E"
+  }, 
+  {
+    "id": "A02080E03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "柴油产量_同比增长", 
+    "pId": "A02080E"
+  }, 
+  {
+    "id": "A02080E04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "柴油产量_累计增长", 
+    "pId": "A02080E"
+  }
+]

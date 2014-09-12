@@ -1,0 +1,162 @@
+[
+  {
+    "ename": "货运量_当期值", 
+    "id": "A070101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货运量_当期值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "货运量_累计值", 
+    "id": "A070102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货运量_累计值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "货运量_同比增长", 
+    "id": "A070103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货运量_同比增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "货运量_累计增长", 
+    "id": "A070104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "货运量_累计增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "铁路货运量_当期值", 
+    "id": "A070105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货运量_当期值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "铁路货运量_累计值", 
+    "id": "A070106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货运量_累计值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "铁路货运量_同比增长", 
+    "id": "A070107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货运量_同比增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "铁路货运量_累计增长", 
+    "id": "A070108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路货运量_累计增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "公路货运量_当期值", 
+    "id": "A070109", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货运量_当期值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "公路货运量_累计值", 
+    "id": "A07010A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货运量_累计值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "公路货运量_同比增长", 
+    "id": "A07010B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货运量_同比增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "公路货运量_累计增长", 
+    "id": "A07010C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公路货运量_累计增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "水运货运量_当期值", 
+    "id": "A07010D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货运量_当期值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "水运货运量_累计值", 
+    "id": "A07010E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货运量_累计值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "水运货运量_同比增长", 
+    "id": "A07010F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货运量_同比增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "水运货运量_累计增长", 
+    "id": "A07010G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水运货运量_累计增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "民航货运量_当期值", 
+    "id": "A07010H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货运量_当期值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "民航货运量_累计值", 
+    "id": "A07010I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货运量_累计值", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "民航货运量_同比增长", 
+    "id": "A07010J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货运量_同比增长", 
+    "pId": "A0701"
+  }, 
+  {
+    "ename": "民航货运量_累计增长", 
+    "id": "A07010K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民航货运量_累计增长", 
+    "pId": "A0701"
+  }
+]

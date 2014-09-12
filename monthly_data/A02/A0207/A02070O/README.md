@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02070O01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业出口交货值_当期值", 
+    "pId": "A02070O"
+  }, 
+  {
+    "id": "A02070O02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业出口交货值_累计值", 
+    "pId": "A02070O"
+  }, 
+  {
+    "id": "A02070O03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业出口交货值_同比增长", 
+    "pId": "A02070O"
+  }, 
+  {
+    "id": "A02070O04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业出口交货值_累计增长", 
+    "pId": "A02070O"
+  }
+]
+~~~

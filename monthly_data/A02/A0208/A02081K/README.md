@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": "家用冷柜产量_当月值", 
+    "id": "A02081K01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用冷柜产量_当月值", 
+    "pId": "A02081K"
+  }, 
+  {
+    "ename": "家用冷柜产量_累计值", 
+    "id": "A02081K02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用冷柜产量_累计值", 
+    "pId": "A02081K"
+  }, 
+  {
+    "ename": "家用冷柜产量_同比增长", 
+    "id": "A02081K03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用冷柜产量_同比增长", 
+    "pId": "A02081K"
+  }, 
+  {
+    "ename": "家用冷柜产量_累计增长", 
+    "id": "A02081K04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用冷柜产量_累计增长", 
+    "pId": "A02081K"
+  }
+]
+~~~

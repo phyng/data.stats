@@ -1,0 +1,282 @@
+[
+  {
+    "id": "A020601", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "工业出口交货值", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020602", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "煤炭开采和洗选业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020603", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "石油和天然气开采业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020604", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "黑色金属矿采选业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020605", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "有色金属矿采选业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020606", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "非金属矿采选业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020607", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "其他采矿业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020608", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "农副食品加工业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020609", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "食品制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060A", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "饮料制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060B", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "烟草制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060C", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "纺织业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060D", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "纺织服装、鞋、帽制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060E", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060F", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "木材加工及木、竹、藤、棕、草制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060G", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "家具制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060H", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "造纸及纸制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060I", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "印刷业和记录媒介的复制", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060J", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "文教体育用品制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060K", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "石油加工、炼焦及核燃料加工业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060L", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "化学原料及化学制品制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060M", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "医药制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060N", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "化学纤维制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060O", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "橡胶制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060P", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "塑料制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060Q", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "非金属矿物制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060R", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "黑色金属冶炼及压延加工业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060S", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "有色金属冶炼及压延加工业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060T", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "金属制品业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060U", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "通用设备制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060V", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "专用设备制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060W", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "交通运输设备制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060X", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "电气机械及器材制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060Y", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "通信设备、计算机及其他电子设备制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A02060Z", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "仪器仪表及文化、办公用机械制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020610", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "工艺品及其他制造业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020611", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "废弃资源和废旧材料回收加工业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020612", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "电力、热力的生产和供应业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020613", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "燃气生产和供应业", 
+    "pId": "A0206"
+  }, 
+  {
+    "id": "A020614", 
+    "ifData": "4", 
+    "isParent": false, 
+    "name": "水的生产和供应业", 
+    "pId": "A0206"
+  }
+]

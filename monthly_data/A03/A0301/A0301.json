@@ -1,0 +1,240 @@
+[
+  {
+    "id": "A030101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国有及国有控股固定资产投资额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国有及国有控股固定资产投资额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发投资额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产开发投资额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第一产业固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第一产业固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A030109", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第二产业固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第二产业固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第三产业固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "第三产业固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "中央项目固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "中央项目固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "地方项目固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "地方项目固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新建固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新建固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "扩建固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "扩建固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "改建固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "改建固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑安装工程固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑安装工程固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "设备工器具购置固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "设备工器具购置固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他费用固定资产投资完成额_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他费用固定资产投资完成额_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房屋施工面积_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房屋施工面积_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房屋竣工面积_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房屋竣工面积_累计增长", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新增固定资产投资_累计值", 
+    "pId": "A0301"
+  }, 
+  {
+    "id": "A03010Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "新增固定资产投资_累计增长", 
+    "pId": "A0301"
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A040301", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产业土地购置面积_累计值", 
+    "pId": "A0403"
+  }, 
+  {
+    "id": "A040302", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产业土地购置面积_累计增长", 
+    "pId": "A0403"
+  }, 
+  {
+    "id": "A040303", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产业土地成交价款_累计值", 
+    "pId": "A0403"
+  }, 
+  {
+    "id": "A040304", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "房地产业土地成交价款_累计增长", 
+    "pId": "A0403"
+  }
+]

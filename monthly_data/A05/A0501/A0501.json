@@ -1,0 +1,58 @@
+[
+  {
+    "id": "A050101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "社会消费品零售总额_当期值", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "社会消费品零售总额_累计值", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "社会消费品零售总额_同比增长", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "社会消费品零售总额_累计增长", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位消费品零售额_当期值", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位消费品零售额_累计值", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位消费品零售额_同比增长", 
+    "pId": "A0501"
+  }, 
+  {
+    "id": "A050108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "限上单位消费品零售额_累计增长", 
+    "pId": "A0501"
+  }
+]

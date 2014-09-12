@@ -1,0 +1,34 @@
+[
+  {
+    "ename": null, 
+    "id": "A02080I01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纯碱(碳酸钠)产量_当月值", 
+    "pId": "A02080I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080I02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纯碱(碳酸钠)产量_累计值", 
+    "pId": "A02080I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080I03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纯碱(碳酸钠)产量_同比增长", 
+    "pId": "A02080I"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02080I04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纯碱(碳酸钠)产量_累计增长", 
+    "pId": "A02080I"
+  }
+]

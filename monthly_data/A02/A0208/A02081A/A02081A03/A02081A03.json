@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081A01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "小型拖拉机产量_当月值", 
+    "pId": "A02081A"
+  }, 
+  {
+    "id": "A02081A02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "小型拖拉机产量_累计值", 
+    "pId": "A02081A"
+  }, 
+  {
+    "id": "A02081A03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "小型拖拉机产量_同比增长", 
+    "pId": "A02081A"
+  }, 
+  {
+    "id": "A02081A04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "小型拖拉机产量_累计增长", 
+    "pId": "A02081A"
+  }
+]

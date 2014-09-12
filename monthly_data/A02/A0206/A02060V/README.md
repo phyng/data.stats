@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02060V01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业出口交货值_当期值", 
+    "pId": "A02060V"
+  }, 
+  {
+    "id": "A02060V02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业出口交货值_累计值", 
+    "pId": "A02060V"
+  }, 
+  {
+    "id": "A02060V03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业出口交货值_同比增长", 
+    "pId": "A02060V"
+  }, 
+  {
+    "id": "A02060V04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业出口交货值_累计增长", 
+    "pId": "A02060V"
+  }
+]
+~~~

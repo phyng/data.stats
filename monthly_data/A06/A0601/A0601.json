@@ -1,0 +1,114 @@
+[
+  {
+    "ename": "进出口总值_当期值", 
+    "id": "A060101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口总值_当期值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进出口总值_同比增长", 
+    "id": "A060102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口总值_同比增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进出口总值_累计值", 
+    "id": "A060103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口总值_累计值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进出口总值_累计增长", 
+    "id": "A060104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口总值_累计增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "出口总值_当期值", 
+    "id": "A060105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "出口总值_当期值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "出口总值_同比增长", 
+    "id": "A060106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "出口总值_同比增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "出口总值_累计值", 
+    "id": "A060107", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "出口总值_累计值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "出口总值_累计增长", 
+    "id": "A060108", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "出口总值_累计增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进口总值_当期值", 
+    "id": "A060109", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进口总值_当期值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进口总值_同比增长", 
+    "id": "A06010A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进口总值_同比增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进口总值_累计值", 
+    "id": "A06010B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进口总值_累计值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进口总值_累计增长", 
+    "id": "A06010C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进口总值_累计增长", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进出口差额_当期值", 
+    "id": "A06010D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口差额_当期值", 
+    "pId": "A0601"
+  }, 
+  {
+    "ename": "进出口差额_累计值", 
+    "id": "A06010E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "进出口差额_累计值", 
+    "pId": "A0601"
+  }
+]

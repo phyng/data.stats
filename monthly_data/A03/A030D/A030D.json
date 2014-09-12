@@ -1,0 +1,422 @@
+[
+  {
+    "id": "A030D01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农林牧渔业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农林牧渔业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "采矿业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "采矿业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D07", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D08", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D09", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D0Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力、燃气及水的生产和供应业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D10", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力、燃气及水的生产和供应业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D11", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D12", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D13", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D14", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "建筑业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D15", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输、仓储和邮政业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D16", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输、仓储和邮政业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D17", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路运输业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D18", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路运输业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D19", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "道路运输业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "道路运输业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水利、环境和公共设施管理业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水利、环境和公共设施管理业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水利管理业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水利管理业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公共设施管理业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公共设施管理业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "教育民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "教育民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "卫生和社会工作民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "卫生和社会工作民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化、体育和娱乐业民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文化、体育和娱乐业民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公共管理、社会保障和社会组织民间固定资产投资_累计值", 
+    "pId": "A030D"
+  }, 
+  {
+    "id": "A030D1O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "公共管理、社会保障和社会组织民间固定资产投资_累计增长", 
+    "pId": "A030D"
+  }
+]

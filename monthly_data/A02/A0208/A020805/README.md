@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02080501", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "成品糖产量_当月值", 
+    "pId": "A020805"
+  }, 
+  {
+    "id": "A02080502", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "成品糖产量_累计值", 
+    "pId": "A020805"
+  }, 
+  {
+    "id": "A02080503", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "成品糖产量_同比增长", 
+    "pId": "A020805"
+  }, 
+  {
+    "id": "A02080504", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "成品糖产量_累计增长", 
+    "pId": "A020805"
+  }
+]
+~~~

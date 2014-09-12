@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02080301", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "磷矿石产量_当月值", 
+    "pId": "A020803"
+  }, 
+  {
+    "id": "A02080302", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "磷矿石产量_累计值", 
+    "pId": "A020803"
+  }, 
+  {
+    "id": "A02080303", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "磷矿石产量_同比增长", 
+    "pId": "A020803"
+  }, 
+  {
+    "id": "A02080304", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "磷矿石产量_累计增长", 
+    "pId": "A020803"
+  }
+]
+~~~

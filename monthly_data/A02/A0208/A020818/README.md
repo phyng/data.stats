@@ -1,0 +1,36 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A02081801", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大型拖拉机产量_当月值", 
+    "pId": "A020818"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02081802", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大型拖拉机产量_累计值", 
+    "pId": "A020818"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02081803", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大型拖拉机产量_同比增长", 
+    "pId": "A020818"
+  }, 
+  {
+    "ename": null, 
+    "id": "A02081804", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大型拖拉机产量_累计增长", 
+    "pId": "A020818"
+  }
+]
+~~~

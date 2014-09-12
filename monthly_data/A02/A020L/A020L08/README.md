@@ -1,0 +1,844 @@
+~~~json
+[
+  {
+    "id": "A020L0801", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0802", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0803", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0804", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0805", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0806", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0807", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0808", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0809", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L080Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0810", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0811", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0812", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0813", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、鞋、帽制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0814", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0815", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0816", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛(绒)及其制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0817", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0818", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0819", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L081Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0820", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0821", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0822", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0823", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0824", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0825", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0826", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0827", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0828", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0829", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通信设备、计算机及其他电子设备制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L082Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0830", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工艺品及其他制造业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0831", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0832", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0833", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源和废旧材料回收加工业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0834", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0835", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0836", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0837", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0838", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L0839", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L083A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业主营业务收入_累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L083B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业主营业务收入_上年同期累计值", 
+    "pId": "A020L08"
+  }, 
+  {
+    "id": "A020L083C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业主营业务收入_累计增长", 
+    "pId": "A020L08"
+  }
+]
+~~~

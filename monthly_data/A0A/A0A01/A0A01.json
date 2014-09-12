@@ -1,0 +1,50 @@
+[
+  {
+    "ename": "国家财政收入_当期值", 
+    "id": "A0A0101", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政收入_当期值", 
+    "pId": "A0A01"
+  }, 
+  {
+    "ename": "国家财政收入_累计值", 
+    "id": "A0A0102", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政收入_累计值", 
+    "pId": "A0A01"
+  }, 
+  {
+    "ename": "国家财政收入_同比增长", 
+    "id": "A0A0103", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政收入_同比增长", 
+    "pId": "A0A01"
+  }, 
+  {
+    "ename": "国家财政收入_累计增长", 
+    "id": "A0A0104", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政收入_累计增长", 
+    "pId": "A0A01"
+  }, 
+  {
+    "ename": "国家财政支出(不含债务还本)_累计值", 
+    "id": "A0A0105", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政支出(不含债务还本)_累计值", 
+    "pId": "A0A01"
+  }, 
+  {
+    "ename": "国家财政支出(不含债务还本)_累计增长", 
+    "id": "A0A0106", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "国家财政支出(不含债务还本)_累计增长", 
+    "pId": "A0A01"
+  }
+]

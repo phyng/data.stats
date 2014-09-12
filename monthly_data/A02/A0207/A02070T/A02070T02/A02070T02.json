@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02070T01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业出口交货值_当期值", 
+    "pId": "A02070T"
+  }, 
+  {
+    "id": "A02070T02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业出口交货值_累计值", 
+    "pId": "A02070T"
+  }, 
+  {
+    "id": "A02070T03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业出口交货值_同比增长", 
+    "pId": "A02070T"
+  }, 
+  {
+    "id": "A02070T04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业出口交货值_累计增长", 
+    "pId": "A02070T"
+  }
+]

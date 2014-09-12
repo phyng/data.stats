@@ -1,0 +1,34 @@
+[
+  {
+    "ename": "轿车产量_当月值", 
+    "id": "A02081E01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轿车产量_当月值", 
+    "pId": "A02081E"
+  }, 
+  {
+    "ename": "轿车产量_累计值", 
+    "id": "A02081E02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轿车产量_累计值", 
+    "pId": "A02081E"
+  }, 
+  {
+    "ename": "轿车产量_同比增长", 
+    "id": "A02081E03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轿车产量_同比增长", 
+    "pId": "A02081E"
+  }, 
+  {
+    "ename": "轿车产量_累计增长", 
+    "id": "A02081E04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "轿车产量_累计增长", 
+    "pId": "A02081E"
+  }
+]

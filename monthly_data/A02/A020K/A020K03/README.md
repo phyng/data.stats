@@ -1,0 +1,964 @@
+~~~json
+[
+  {
+    "ename": null, 
+    "id": "A020K0301", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0302", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0303", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0304", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0305", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0306", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0307", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0308", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0309", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K030Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0310", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0311", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0312", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0313", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0314", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0315", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0316", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0317", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0318", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0319", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K031Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0320", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0321", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0322", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0323", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0324", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0325", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0326", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0327", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0328", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0329", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K032Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0330", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0331", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0332", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0333", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0334", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0335", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0336", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0337", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0338", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0339", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K033A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业流动资产平均余额_累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K033B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业流动资产平均余额_上年同期累计值", 
+    "pId": "A020K03"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K033C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业流动资产平均余额_累计增长", 
+    "pId": "A020K03"
+  }
+]
+~~~

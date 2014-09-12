@@ -1,0 +1,50 @@
+[
+  {
+    "ename": "商品住宅销售面积_累计值", 
+    "id": "A040A01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅销售面积_累计值", 
+    "pId": "A040A"
+  }, 
+  {
+    "ename": "商品住宅销售面积_累计增长", 
+    "id": "A040A02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅销售面积_累计增长", 
+    "pId": "A040A"
+  }, 
+  {
+    "ename": "商品住宅现房销售面积_累计值", 
+    "id": "A040A03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅现房销售面积_累计值", 
+    "pId": "A040A"
+  }, 
+  {
+    "ename": "商品住宅现房销售面积_累计增长", 
+    "id": "A040A04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅现房销售面积_累计增长", 
+    "pId": "A040A"
+  }, 
+  {
+    "ename": "商品住宅期房销售面积_累计值", 
+    "id": "A040A05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅期房销售面积_累计值", 
+    "pId": "A040A"
+  }, 
+  {
+    "ename": "商品住宅期房销售面积_累计增长", 
+    "id": "A040A06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "商品住宅期房销售面积_累计增长", 
+    "pId": "A040A"
+  }
+]

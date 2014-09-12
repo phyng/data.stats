@@ -1,0 +1,30 @@
+[
+  {
+    "id": "A02081Y01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大规模集成电路产量_当月值", 
+    "pId": "A02081Y"
+  }, 
+  {
+    "id": "A02081Y02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大规模集成电路产量_累计值", 
+    "pId": "A02081Y"
+  }, 
+  {
+    "id": "A02081Y03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大规模集成电路产量_同比增长", 
+    "pId": "A02081Y"
+  }, 
+  {
+    "id": "A02081Y04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "大规模集成电路产量_累计增长", 
+    "pId": "A02081Y"
+  }
+]

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "A020K0901", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0902", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0903", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0904", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0905", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0906", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0907", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0908", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0909", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K090Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0910", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0911", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0912", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0913", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0914", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0915", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0916", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0917", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0918", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0919", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K091Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0920", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0921", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0922", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0923", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0924", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0925", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0926", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0927", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0928", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0929", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K092Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0930", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0931", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0932", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0933", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0934", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0935", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0936", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0937", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0938", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K0939", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K093A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务成本_累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K093B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务成本_上年同期累计值", 
+    "pId": "A020K09"
+  }, 
+  {
+    "id": "A020K093C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务成本_累计增长", 
+    "pId": "A020K09"
+  }
+]

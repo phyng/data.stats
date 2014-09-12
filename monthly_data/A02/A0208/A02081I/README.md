@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02081I01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用洗衣机产量_当月值", 
+    "pId": "A02081I"
+  }, 
+  {
+    "id": "A02081I02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用洗衣机产量_累计值", 
+    "pId": "A02081I"
+  }, 
+  {
+    "id": "A02081I03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用洗衣机产量_同比增长", 
+    "pId": "A02081I"
+  }, 
+  {
+    "id": "A02081I04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家用洗衣机产量_累计增长", 
+    "pId": "A02081I"
+  }
+]
+~~~

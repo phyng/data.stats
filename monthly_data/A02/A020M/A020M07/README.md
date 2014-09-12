@@ -1,0 +1,886 @@
+~~~json
+[
+  {
+    "id": "A020M0701", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0702", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0703", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0704", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0705", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0706", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0707", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0708", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0709", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "开采辅助活动资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他采矿业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "农副食品加工业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "酒、饮料和精制茶制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M070Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0710", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0711", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0712", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0713", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0714", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0715", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0716", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织服装、服饰业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0717", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0718", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0719", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽毛及其制品和制鞋业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工和木、竹、藤、棕、草制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷和记录媒介复制业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教、工美、体育和娱乐用品制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工、炼焦和核燃料加工业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M071Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0720", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0721", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0722", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0723", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶和塑料制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0724", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0725", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0726", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0727", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0728", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0729", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "通用设备制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "汽车制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "铁路、船舶、航空航天和其他运输设备制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "计算机、通信和其他电子设备制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M072Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0730", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0731", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0732", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0733", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0734", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0735", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0736", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "废弃资源综合利用业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0737", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0738", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M0739", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品、机械和设备修理业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、热力生产和供应业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "燃气生产和供应业资产总计_累计增长", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业资产总计_累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业资产总计_上年同期累计值", 
+    "pId": "A020M07"
+  }, 
+  {
+    "id": "A020M073I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "水的生产和供应业资产总计_累计增长", 
+    "pId": "A020M07"
+  }
+]
+~~~

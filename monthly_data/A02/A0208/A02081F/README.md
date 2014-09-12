@@ -1,0 +1,32 @@
+~~~json
+[
+  {
+    "id": "A02081F01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民用钢质船舶产量_当月值", 
+    "pId": "A02081F"
+  }, 
+  {
+    "id": "A02081F02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民用钢质船舶产量_累计值", 
+    "pId": "A02081F"
+  }, 
+  {
+    "id": "A02081F03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民用钢质船舶产量_同比增长", 
+    "pId": "A02081F"
+  }, 
+  {
+    "id": "A02081F04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "民用钢质船舶产量_累计增长", 
+    "pId": "A02081F"
+  }
+]
+~~~

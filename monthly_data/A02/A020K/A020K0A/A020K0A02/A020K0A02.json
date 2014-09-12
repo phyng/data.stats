@@ -1,0 +1,962 @@
+[
+  {
+    "ename": null, 
+    "id": "A020K0A01", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A02", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A03", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "工业企业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A04", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A05", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A06", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤炭开采和洗选业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A07", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A08", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A09", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油和天然气开采业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属矿采选业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属矿采选业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿采选业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他矿采选业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材及竹材采运业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品加工业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "食品制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "饮料制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A0Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A10", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "烟草加工业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A11", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A12", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A13", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "纺织业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A14", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A15", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A16", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "服装及其他纤维制品制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A17", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A18", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A19", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "皮革、毛皮、羽绒及其制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "木材加工及竹、藤、棕、草制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "家具制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "造纸和纸制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "印刷业和记录媒介的复制主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "文教体育用品制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "石油加工及炼焦业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学原料和化学制品制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "医药制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A1Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A20", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "化学纤维制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A21", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A22", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A23", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "橡胶制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A24", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A25", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A26", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "塑料制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A27", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A28", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A29", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "非金属矿物制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "黑色金属冶炼和压延加工业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2D", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2E", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2F", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "有色金属冶炼和压延加工业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2G", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2H", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2I", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "金属制品业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2J", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2K", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2L", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "普通机械制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2M", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2N", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2O", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "专用设备制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2P", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2Q", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2R", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "交通运输设备制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2S", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2T", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2U", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电气机械和器材制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2V", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2W", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2X", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电子及通信设备制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2Y", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A2Z", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A30", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "仪器仪表及文化、办公用机械制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A31", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A32", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A33", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "其他制造业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A34", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A35", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A36", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "电力、蒸汽、热水的生产和供应业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A37", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A38", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A39", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "煤气生产和供应业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A3A", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务税金及附加_累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A3B", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务税金及附加_上年同期累计值", 
+    "pId": "A020K0A"
+  }, 
+  {
+    "ename": null, 
+    "id": "A020K0A3C", 
+    "ifData": "1", 
+    "isParent": true, 
+    "name": "自来水的生产和供应业主营业务税金及附加_累计增长", 
+    "pId": "A020K0A"
+  }
+]
