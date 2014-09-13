@@ -54,7 +54,8 @@ docs/_build/
 target/
 
 
-#my
+# My
 *.py
 *.ipynb
 *.html
+api.md
